@@ -34,7 +34,7 @@ Este projeto implementa um sistema para capturar dados do motor em uma bancada d
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/KeyllaK/servo.git]
+git clone [https://github.com/KeyllaK/Desempenho---Aero-Chico.git]
 ```
 
 2. Configure o ambiente de desenvolvimento seguindo as instruções do Pico SDK
